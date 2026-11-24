@@ -1,4 +1,4 @@
-# локальная версия API
+# учебная версия API: CRUD задач
 from pathlib import Path
 
 from flask import Flask, jsonify, request
