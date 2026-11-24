@@ -1,4 +1,4 @@
-# учебная версия API
+# версия API на сервере
 from pathlib import Path
 
 from flask import Flask, jsonify, request
